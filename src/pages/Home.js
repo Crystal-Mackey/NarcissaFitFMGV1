@@ -1,10 +1,10 @@
 import React from 'react';
 import Introduction from '../components/Introduction';
 import Services from '../components/Services';
+import DrinksAd from '../components/DrinksAd';
 import Gallery from '../components/Gallery';
 import Footer from '../components/Footer';
 import Banner from '../components/Banner';
-import DrinksAd from '../components/DrinksAd';
 import '../App.css';
 
 const Home = () => {
