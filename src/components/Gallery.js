@@ -6,6 +6,14 @@ import Drink4 from "../assets/Gallery/Drink4.jpg";
 import Drink5 from "../assets/Gallery/Drink5.jpg";
 import Drink6 from "../assets/Gallery/Drink6.jpg";
 import Drink7 from "../assets/Gallery/Drink7.jpg";
+import Truck1 from "../assets/Gallery/Truck1.jpg";
+import Truck2 from "../assets/Gallery/Truck2.jpg";
+import Truck3 from "../assets/Gallery/Truck3.jpg";
+import Truck4 from "../assets/Gallery/Truck4.jpg";
+import Truck5 from "../assets/Gallery/Truck5.jpg";
+import Truck6 from "../assets/Gallery/Truck6.jpg";
+import Other1 from "../assets/Gallery/Other1.jpg";
+import Other2 from "../assets/Gallery/Other2.jpg";
 import '../App.css'; // Ensure this imports your CSS file
 
 const galleryItems = [
@@ -16,6 +24,14 @@ const galleryItems = [
   { id: 5, type: 'image', src: Drink5, alt: 'Drink 5' },
   { id: 6, type: 'image', src: Drink6, alt: 'Drink 6' },
   { id: 7, type: 'image', src: Drink7, alt: 'Drink 7' },
+  { id: 1, type: 'image', src: Truck1, alt: 'Truck 1' },
+  { id: 2, type: 'image', src: Truck2, alt: 'Truck 2' },
+  { id: 3, type: 'image', src: Truck3, alt: 'Truck 3' },
+  { id: 4, type: 'image', src: Truck4, alt: 'Truck 4' },
+  { id: 5, type: 'image', src: Truck5, alt: 'Truck 5' },
+  { id: 6, type: 'image', src: Truck6, alt: 'Truck 6' },
+  { id: 7, type: 'image', src: Other1, alt: 'Other 1' },
+  { id: 7, type: 'image', src: Other2, alt: 'Other 2' },
   // Add more items here
 ];
 
